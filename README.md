@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This Power BI dashboard analyses ESG performance, green finance indicators, and firm performance among Malaysian listed firms from 2016 to 2023. The project translates undergraduate thesis data into an interactive dashboard for exploring ESG trends, sector comparisons, green finance patterns, and research findings in a more accessible way.
+This Power BI dashboard analyses ESG performance, green finance indicators, and firm performance among Malaysian listed firms from 2016 to 2023. The project translates my undergraduate thesis data into an interactive dashboard for exploring ESG trends, sector comparisons, green finance patterns, and research findings in a more accessible way.
 
 ## Repository Structure
 
